@@ -1,0 +1,6 @@
+This mod adds a new "elite enemies" mechanic into the game. Basically, when an enemy spawns, there is a small chance that it will be elite. Elite enemies have random modifiers and new attacks, and will drop special loot.
+It's a fairly simple mod but it could potentially add some freshness to your playthrough.
+Thanks to CR1MS4NE for the icon sprite!
+
+Update 1.0:
+ - Released
